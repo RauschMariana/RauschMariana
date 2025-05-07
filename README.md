@@ -108,7 +108,6 @@ I'm a web developer in training, passionate about technology and constantly lear
 <!-- Github Stats-->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;<b>Github Stats</b>
 
-
 <div align="center"> 
   <img  width="48%" height="170px" src="https://github-readme-stats.vercel.app/api?username=RauschMariana&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Mariana Rausch github stats" /> 
 <img width="45%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RauschMariana&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117"/>
