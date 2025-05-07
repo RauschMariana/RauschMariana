@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 300px></picture>
 I'm a web developer in training, passionate about technology and constantly learning. I'm delving into both front-end and back-end development, creating my own projects while developing my portfolio. I'm currently focused on growing in the IT world.
 - 🚀 In progress: Exploring freeCodeCamp resources, JavaScript, React, and Data Science as a self-taught program.
 - 🌐 Teams: Open to collaboration! Frontend? Backend? I'm excited to learn and contribute to both.
@@ -13,7 +13,7 @@ I'm a web developer in training, passionate about technology and constantly lear
 - 🔍 My focus: Integrating backend logic with functional and accessible interfaces. I enjoy creating useful, creative, and thoughtful solutions.
 
 <!-- Tecnologies & Tools -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">&nbsp;<b> Tecnologies & Tools</b> 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;<b> Tecnologies & Tools</b> 
 
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
@@ -45,7 +45,7 @@ I'm a web developer in training, passionate about technology and constantly lear
 <span><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next logo" title="Next" height="25" /></span>
 
 <!-- Github Stats-->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;<b>Github Stats</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;<b>Github Stats</b>
 
 <div align="center"> 
   <img width="48%" height="170px" src="https://github-readme-stats.vercel.app/api?username=RauschMariana&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Mariana Rausch github stats"/>
@@ -55,12 +55,12 @@ I'm a web developer in training, passionate about technology and constantly lear
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RauschMariana&theme=dracula&no-bg=true&margin-w=10&margin-h=10" />
 </p> -->
-  <br>
+<br>
   
 <div>
   
 <!-- Contact me -->
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px">&nbsp;<b>For More Information, Please Check Out or Connect Me Via</b>
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="35px" height="50px">&nbsp;<b>For More Information, Please Check Out or Connect Me Via</b>
 
 <br>
 
