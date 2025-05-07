@@ -50,11 +50,9 @@ I'm a web developer in training, passionate about technology and constantly lear
 <div align="center"> 
   <img width="48%" height="170px" src="https://github-readme-stats.vercel.app/api?username=RauschMariana&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Mariana Rausch github stats"/>
 
-<img width="48%" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=RauschMariana&theme=radical&hide_border=false&background=0d1117" alt="RauschMariana"/>
+<img width="48%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=RauschMariana&theme=radical&hide_border=false&background=0d1117" alt="RauschMariana"/>
 </div>
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RauschMariana&theme=dracula&no-bg=true&margin-w=10&margin-h=10" />
-</p> -->
+
 <br>
   
 <div>
