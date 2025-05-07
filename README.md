@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=140&section=header"/>
 
-<h2 align="center">Hi, I'm Mariana &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
+<h3 align="center">Hi, I'm Mariana &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h3>
 
 <br>
 
@@ -109,7 +109,7 @@ I'm a web developer in training, passionate about technology and constantly lear
 
 
 <div align="center"> 
-  <img  width="47%" height="170px" src="https://github-readme-stats.vercel.app/api?username=RauschMariana&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Mariana Rausch github stats" /> 
+  <img  width="48%" height="170px" src="https://github-readme-stats.vercel.app/api?username=RauschMariana&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Mariana Rausch github stats" /> 
 <img width="45%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RauschMariana&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117"/>
 </div>
 <!-- <p align="center">
