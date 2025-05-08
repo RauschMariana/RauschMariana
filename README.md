@@ -1,11 +1,11 @@
 
 <div align="center">
-  <p><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7b2cbf&textBg=false&reversal=true&section=header"/></p><h3>Hi, I'm Mariana &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h3>
+  <p><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7b2cbf&textBg=false&reversal=true&section=header"/></p><h3>Hi, I'm Mariana &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h3>
 </div>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 300px></picture>
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 350px></picture>
 I'm a web developer in training, passionate about technology and constantly learning. I'm delving into both front-end and back-end development, creating my own projects while developing my portfolio. I'm currently focused on growing in the IT world.
 - 🚀 In progress: Exploring freeCodeCamp resources, JavaScript, React, and Data Science as a self-taught program.
 - 🌐 Teams: Open to collaboration! Frontend? Backend? I'm excited to learn and contribute to both.
@@ -80,4 +80,4 @@ I'm a web developer in training, passionate about technology and constantly lear
 <div align="center">
    Thanks you for visiting my profile! Have a nice day! 💜 <br/>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7b2cbf&textBg=false&reversal=true&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7b2cbf&textBg=false&reversal=true&section=footer"/>
