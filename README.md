@@ -4,13 +4,14 @@
 </div>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-
-<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 350px></picture>
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 250px></picture>
+<div align="left">
 I'm a web developer in training, passionate about technology and constantly learning. I'm delving into both front-end and back-end development, creating my own projects while developing my portfolio. I'm currently focused on growing in the IT world.
-- 🚀 In progress: Exploring freeCodeCamp resources, JavaScript, React, and Data Science as a self-taught program.
+</div>
+<!-- - 🚀 In progress: Exploring freeCodeCamp resources, JavaScript, React, and Data Science as a self-taught program.
 - 🌐 Teams: Open to collaboration! Frontend? Backend? I'm excited to learn and contribute to both.
 - 📘 Current mission: Master React and strengthen my knowledge of automation, testing, and databases.
-- 🔍 My focus: Integrating backend logic with functional and accessible interfaces. I enjoy creating useful, creative, and thoughtful solutions.
+- 🔍 My focus: Integrating backend logic with functional and accessible interfaces. I enjoy creating useful, creative, and thoughtful solutions. -->
 
 <!-- Tecnologies & Tools -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;<b> Tecnologies & Tools</b> 
