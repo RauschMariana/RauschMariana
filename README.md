@@ -1,4 +1,3 @@
-
 <div align="center">
   <p><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7b2cbf&textBg=false&reversal=true&section=header"/></p><h3>Hi, I'm Mariana &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h3>
 </div>
@@ -58,7 +57,7 @@ I'm a web developer in training, passionate about technology and constantly lear
 <div>
   
 <!-- Contact me -->
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="35px" height="50px">&nbsp;<b>For More Information, Please Check Out or Connect Me Via</b>
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="35px" height="30px">&nbsp;<b>For More Information, Please Check Out or Connect Me Via</b>
 
 <br>
 
