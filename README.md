@@ -79,7 +79,7 @@ I'm a web developer in training, passionate about technology and constantly lear
 
 <div align="center">
   <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Mahdiiye&color=7b2cbf" alt="watching_count" />
+  <img src="https://komarev.com/ghpvc/?username=RauschMariana&color=7b2cbf" alt="watching_count" />
  </p>
    Thanks you for visiting my profile! Have a nice day! 💜 <br/>
 </div>
