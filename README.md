@@ -78,6 +78,9 @@ I'm a web developer in training, passionate about technology and constantly lear
 </div>
 
 <div align="center">
+  <p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Mahdiiye&color=7b2cbf" alt="watching_count" />
+ </p>
    Thanks you for visiting my profile! Have a nice day! 💜 <br/>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7b2cbf&textBg=false&reversal=true&section=footer"/>
