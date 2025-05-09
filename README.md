@@ -1,6 +1,6 @@
 
 <div align="center">
-  <p><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7b2cbf&textBg=false&reversal=true&section=header"/></p><h3>Hi, I'm Mariana &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h3>
+  <p><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7b2cbf&textBg=false&reversal=true&section=header"/></p><h3>Hi, I'm Mariana &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h3>
 </div>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
@@ -84,4 +84,4 @@ I'm a web developer in training, passionate about technology and constantly lear
  </p>
    Thanks you for visiting my profile! Have a nice day! 💜 <br/>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7b2cbf&textBg=false&reversal=true&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7b2cbf&textBg=false&reversal=true&section=footer"/>
